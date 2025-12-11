@@ -16,4 +16,7 @@ The registration matrix and affine transformation matrix are exported as JSON fi
 
 This code incorporates CUDA-based implementations; please configure the environment for NVIDIA graphics cards properly before running it.
 
+# image
+---
+related images have upload in image folder,you can test with my code.
 
