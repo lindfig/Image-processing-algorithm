@@ -2,7 +2,7 @@
 
 This project is record for my experiment for Multi-Frame Super-Resolution for Long-Wave Infrared Images
 
-* Registration of 36 Long-Wave Infrared (LWIR) Images()
+* Registration of 36 Long-Wave Infrared (LWIR) 
 * 4× Super-Resolution Implementation After Registration
 * The computational speed is within 30 milliseconds, and the distance exceeds 3 kilometers.
 
